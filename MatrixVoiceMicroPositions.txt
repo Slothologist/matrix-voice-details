@@ -1,0 +1,11 @@
+values in millimeter (taken from cad model, should be accurate to at least a tenth millimeter) 
+
+m1: 0, 0 
+m2: -38.14, 3.57
+m3: -21, 32.05
+m4: 11.95, 36.37
+m5: 35.90, 13.31
+m6: 32.80, 19.75
+m7: 5.0, -37.99
+m8: -26.58, -27.6
+
